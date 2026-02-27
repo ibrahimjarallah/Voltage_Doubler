@@ -8,7 +8,7 @@
 ## 📸 2D Views
 
 | 2D Views |
-|:---:|:---:|
+|:---:|
 | ![2d_View](2D_VIEW/2D_VIEW.png) |
 
 ---
