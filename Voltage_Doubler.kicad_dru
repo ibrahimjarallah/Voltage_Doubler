@@ -3,3 +3,6 @@
    (constraint track_width (min 0.5mm))
    (condition "A.NetClass == 'Power'")
 )
+(rule no_thermal_relief
+   (constraint zone_connection solid)
+)

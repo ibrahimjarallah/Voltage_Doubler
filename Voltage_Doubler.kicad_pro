@@ -503,7 +503,7 @@
       "plot": "/home/ibrahim/Workspaces/KICAD__Workspace/Voltage_Doubler/Voltage_Doubler/drills/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Voltage_Doubler.step",
       "svg": "",
       "vrml": ""
     },
