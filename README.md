@@ -93,13 +93,13 @@ Voltage_Doubler/
 ├── drills/
 │   ├── Voltage_Doubler-PTH.drl   # Plated through-holes
 │   └── Voltage_Doubler-NPTH.drl  # Non-plated through-holes
-└── 3D_VIEW/
-    ├── Voltage_Doubler_Front.png
-    └── Voltage_Doubler_Back.png
-    2D_VIEW/
+├──  3D_VIEW/
+│   ├── Voltage_Doubler_Front.png
+│   └── Voltage_Doubler_Back.png
+│   
+└── 2D_VIEW/
     └── 2d_view.png
-```
-
+``` 
 ---
 
 ## 🖥️ Opening the Project
