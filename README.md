@@ -96,6 +96,8 @@ Voltage_Doubler/
 └── 3D_VIEW/
     ├── Voltage_Doubler_Front.png
     └── Voltage_Doubler_Back.png
+    2D_VIEW/
+    └── 2d_view.png
 ```
 
 ---
