@@ -8,7 +8,7 @@
 		(title "Voltage_Doubler")
 		(date "2026-02-25")
 		(rev "1.0")
-		(company "HighTech")
+		(company "Ibrahim Jarallah")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
@@ -1340,14 +1340,13 @@
 	)
 	(text "Voltage Doubler Using IC555"
 		(exclude_from_sim no)
-		(at 153.67 52.578 0)
+		(at 146.05 54.61 0)
 		(effects
 			(font
 				(face "JetBrains Mono NL SemiBold")
 				(size 2.54 2.54)
 				(thickness 0.254)
-				(bold yes)
-				(color 69 0 2 1)
+				(color 50 34 69 0.84)
 			)
 		)
 		(uuid "11aabb77-1503-4f2a-bb78-24f2aa4411a0")

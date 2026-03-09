@@ -5,19 +5,27 @@
 
 ---
 
-## 📸 2D Views
-
-| 2D Views |
-|:---:|
-| ![2d_View](2D_VIEW/2d_view.png) |
-
----
-
 ## 📸 3D Views
 
 | Front | Back |
 |:---:|:---:|
 | ![Front](3D_VIEW/Voltage_Doubler_Front.png) | ![Back](3D_VIEW/Voltage_Doubler_Back.png) |
+
+## 🖼️ PCB Layout (2D)
+
+| Front | Back |
+|:---:|:---:|
+| ![2D Front](2D_VIEW/2d_view_front.png) | ![2D Back](2D_VIEW/2d_view_back.png) |
+
+## 🟤 PCB Layout — Copper Fill (2D)
+
+| Front | Back |
+|:---:|:---:|
+| ![2D Front Filled](2D_VIEW/2d_view_front_filled.png) | ![2D Back Filled](2D_VIEW/2d_view_back_filled.png) |
+
+## 📐 Schematic
+
+![Schematic](Schematic_view/Schematic_view.png)
 
 ---
 
@@ -93,13 +101,18 @@ Voltage_Doubler/
 ├── drills/
 │   ├── Voltage_Doubler-PTH.drl   # Plated through-holes
 │   └── Voltage_Doubler-NPTH.drl  # Non-plated through-holes
-├──  3D_VIEW/
-│   ├── Voltage_Doubler_Front.png
-│   └── Voltage_Doubler_Back.png
-│   
-└── 2D_VIEW/
-    └── 2d_view.png
-``` 
+└── 3D_VIEW/
+    ├── Voltage_Doubler_Front.png
+    └── Voltage_Doubler_Back.png
+├── 2D_VIEW/
+│   ├── 2d_view_front.png
+│   ├── 2d_view_back.png
+│   ├── 2d_view_front_filled.png
+│   └── 2d_view_back_filled.png
+└── Schematic_view/
+    └── Schematic_view.png
+```
+
 ---
 
 ## 🖥️ Opening the Project
